@@ -1,3 +1,7 @@
+Website: [Desert Lily Design Co](https://desertlilydesign.co) (upcoming)
+
+Old website: [The Worker Tech](https://theworker.tech)
+
 # Projects not Open-Sourced on GitHub
 
 ## [Pilgrim Priest](https://pilgrimpriest-us-git-dev.desertlilydesign-co.vercel.app) (pre-launch preview)
