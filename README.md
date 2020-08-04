@@ -1,4 +1,18 @@
-### Hi there 👋
+# Projects not Open-Sourced on GitHub
+
+## [Pilgrim Priest](https://pilgrimpriest-us-git-dev.desertlilydesign-co.vercel.app) (pre-launch preview)
+*Personal Blog & Podcast*
+
+ - Website Design & Development
+ - Content Migration  
+ - Statically Generated Vue.js (Nuxt.js) front-end / Craft CMS back-end
+
+## [DunnBall.app](https://dunnball.app)
+*Low-budget exercise routine web app*
+
+ - iOS & Android apps coming
+ - Vue.js front-end / Serverless Node.js back-end
+ 
 
 <!--
 **mrhubbs/mrhubbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
