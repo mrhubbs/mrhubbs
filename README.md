@@ -3,15 +3,16 @@
 ## [Pilgrim Priest](https://pilgrimpriest-us-git-dev.desertlilydesign-co.vercel.app) (pre-launch preview)
 *Personal Blog & Podcast*
 
+ - Statically Generated Vue.js (Nuxt.js) front-end / Craft CMS back-end
  - Website Design & Development
  - Content Migration  
- - Statically Generated Vue.js (Nuxt.js) front-end / Craft CMS back-end
+ - Custom fuzzy search functionality
 
 ## [DunnBall.app](https://dunnball.app)
 *Low-budget exercise routine web app*
 
- - iOS & Android apps coming
  - Vue.js front-end / Serverless Node.js back-end
+ - iOS & Android apps coming
  
 
 <!--
