@@ -6,7 +6,7 @@ When working, I always keep this in mind:
 
 > A little thought goes a long way. A lot of thought goes a lot further.
 
-I learned this the hard way early in my career. I believe that thinking combined with being adaptable, iterating under uncertainties, learning humbly and leveraging everyone's strengths is a sure-fire recipe for success.
+I learned this the hard way early in my career. I believe that thinking ahead combined with adaptability, iterating under uncertainties, learning humbly and leveraging everyone's strengths is a sure-fire recipe for success.
 
 I like meta thinking. This includes thinking about how we work (processes & methods) and creating software that is flexible, configurable, reusable and content-centric.
 
