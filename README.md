@@ -1,4 +1,4 @@
-Website: [Desert Lily Design Co](https://desertlilydesign.co) (upcoming)
+Website: <a href="https://desertlilydesign.co" target="_blank">Desert Lily Design Co</a> (upcoming)
 
 Old website: [The Worker Tech](https://theworker.tech)
 
