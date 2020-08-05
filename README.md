@@ -12,7 +12,7 @@ I learned this the hard way early in my career. I believe that thinking ahead co
 
 I like meta thinking. This includes thinking about how we work (processes & methods) and creating software that is flexible, configurable, reusable and content-centric.
 
-# Projects not Open-Sourced on GitHub
+# Select Projects not Open-Sourced on GitHub
 
 ## [Pilgrim Priest](https://pilgrimpriest-us-git-dev.desertlilydesign-co.vercel.app) (pre-launch preview)
 *Personal Blog & Podcast*
