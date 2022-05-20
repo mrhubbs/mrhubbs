@@ -12,7 +12,7 @@ I like meta thinking. This includes thinking about how we work (processes & meth
 
 # Select Projects not Open-Sourced on GitHub
 
-## [Pilgrim Priest](https://pilgrimpriest-us-git-dev.desertlilydesign-co.vercel.app) (pre-launch preview)
+## [Pilgrim Priest](https://pilgrimpriest-us-git-dev.desertlilydesign-co.vercel.app)
 *Personal Blog & Podcast*
 
  - Statically Generated Vue.js (Nuxt.js) front-end / Craft CMS back-end
@@ -24,4 +24,3 @@ I like meta thinking. This includes thinking about how we work (processes & meth
 *Low-budget exercise routine web app*
 
  - Vue.js front-end / Serverless Node.js back-end
- - iOS & Android apps coming
